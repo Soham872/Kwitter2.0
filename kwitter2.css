@@ -1,0 +1,17 @@
+.kwitterlogo {
+    height:70px;
+    width:70px;
+}
+.logindiv {
+    height:200px;
+    width:500px;
+    background-color:darkcyan;
+    color:white;
+    float:none;
+}
+.loginbutton {
+    background-color: black;
+    margin:8px;
+    margin-top: 30px;
+}
+
